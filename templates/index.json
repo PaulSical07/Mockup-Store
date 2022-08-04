@@ -48,6 +48,12 @@
         "show_text_below": false
       }
     },
+    "165960346292d36d45": {
+      "type": "pagefly-section",
+      "settings": {
+        "section_id": "pf-4255a7cd"
+      }
+    },
     "rich_text": {
       "type": "rich-text",
       "blocks": {
@@ -212,6 +218,7 @@
   },
   "order": [
     "image_banner",
+    "165960346292d36d45",
     "rich_text",
     "featured_collection",
     "collage",
