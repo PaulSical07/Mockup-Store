@@ -98,6 +98,11 @@
         "padding_bottom": 0
       }
     },
+    "1659675256618cbf52": {
+      "type": "section-divider-text",
+      "settings": {
+      }
+    },
     "rich_text": {
       "type": "rich-text",
       "blocks": {
@@ -264,6 +269,7 @@
     "image_banner",
     "165960346292d36d45",
     "1659603637cdea6398",
+    "1659675256618cbf52",
     "rich_text",
     "featured_collection",
     "collage",
