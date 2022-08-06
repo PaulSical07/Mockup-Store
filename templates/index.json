@@ -118,6 +118,11 @@
       "settings": {
       }
     },
+    "165978904847c81e8f": {
+      "type": "shogun-custom-62ee58213da38300cad32b54",
+      "settings": {
+      }
+    },
     "collage": {
       "type": "collage",
       "blocks": {
@@ -231,6 +236,7 @@
     "1659774706a9bb5356",
     "1659784562c375f940",
     "16597838960e0b1e33",
+    "165978904847c81e8f",
     "collage",
     "video",
     "multicolumn"
