@@ -48,6 +48,11 @@
         "show_text_below": false
       }
     },
+    "165975828110f3a6c2": {
+      "type": "shogun-custom-62ede5f5e9223b00f64a63ae",
+      "settings": {
+      }
+    },
     "1659603637cdea6398": {
       "type": "image-with-text",
       "blocks": {
@@ -256,6 +261,7 @@
   },
   "order": [
     "image_banner",
+    "165975828110f3a6c2",
     "1659603637cdea6398",
     "rich_text",
     "featured_collection",
