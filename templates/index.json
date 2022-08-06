@@ -108,6 +108,11 @@
       "settings": {
       }
     },
+    "1659784562c375f940": {
+      "type": "shogun-custom-62ee4568d0bdaf010eb6fc20",
+      "settings": {
+      }
+    },
     "16597838960e0b1e33": {
       "type": "product-list",
       "settings": {
@@ -224,6 +229,7 @@
     "1659603637cdea6398",
     "1659759078f562c3c7",
     "1659774706a9bb5356",
+    "1659784562c375f940",
     "16597838960e0b1e33",
     "collage",
     "video",
