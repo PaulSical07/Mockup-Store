@@ -103,34 +103,9 @@
         "section_id": "pf-eab0d9b8"
       }
     },
-    "rich_text": {
-      "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text"
-      ],
+    "1659774706a9bb5356": {
+      "type": "shogun-custom-62edebacdd8a8900f2263792",
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
       }
     },
     "featured_collection": {
@@ -270,7 +245,7 @@
     "165975828110f3a6c2",
     "1659603637cdea6398",
     "1659759078f562c3c7",
-    "rich_text",
+    "1659774706a9bb5356",
     "featured_collection",
     "collage",
     "video",
