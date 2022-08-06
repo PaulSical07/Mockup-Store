@@ -97,6 +97,12 @@
         "padding_bottom": 0
       }
     },
+    "16597585644604560e": {
+      "type": "pagefly-section",
+      "settings": {
+        "section_id": "pf-eab0d9b8"
+      }
+    },
     "rich_text": {
       "type": "rich-text",
       "blocks": {
@@ -263,6 +269,7 @@
     "image_banner",
     "165975828110f3a6c2",
     "1659603637cdea6398",
+    "16597585644604560e",
     "rich_text",
     "featured_collection",
     "collage",
