@@ -48,12 +48,6 @@
         "show_text_below": false
       }
     },
-    "165960346292d36d45": {
-      "type": "pagefly-section",
-      "settings": {
-        "section_id": "pf-4255a7cd"
-      }
-    },
     "1659603637cdea6398": {
       "type": "image-with-text",
       "blocks": {
@@ -262,7 +256,6 @@
   },
   "order": [
     "image_banner",
-    "165960346292d36d45",
     "1659603637cdea6398",
     "rich_text",
     "featured_collection",
