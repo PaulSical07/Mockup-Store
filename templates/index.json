@@ -97,6 +97,12 @@
         "padding_bottom": 0
       }
     },
+    "1659759078f562c3c7": {
+      "type": "pagefly-section",
+      "settings": {
+        "section_id": "pf-eab0d9b8"
+      }
+    },
     "rich_text": {
       "type": "rich-text",
       "blocks": {
@@ -257,23 +263,17 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "165975886795321812": {
-      "type": "pagefly-section",
-      "settings": {
-        "section_id": "pf-eab0d9b8"
-      }
     }
   },
   "order": [
     "image_banner",
     "165975828110f3a6c2",
     "1659603637cdea6398",
+    "1659759078f562c3c7",
     "rich_text",
     "featured_collection",
     "collage",
     "video",
-    "multicolumn",
-    "165975886795321812"
+    "multicolumn"
   ]
 }
