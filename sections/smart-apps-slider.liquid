@@ -1,0 +1,28 @@
+<div class="smartSlideshow-wrapper js-smartSlideshow"
+  data-section-id="{{ section.id }}"
+  data-slideshow-id="{{ section.settings.slideshow_id }}"
+  data-settings="{{ section.settings.settings_overrides | escape }}"
+></div>
+
+{% schema %}
+{
+  "name": "IQ Slider",
+  "settings": [
+      
+      {
+        "type": "text",
+        "id": "no_slides",
+        "label": "First create some slideshows then come back here",
+        "info": "You can create slideshows here: https://iq-slider.ada-dev.com/login?shop=cosmetic-mockup.myshopify.com",
+        "default": "https://iq-slider.ada-dev.com/login?shop=cosmetic-mockup.myshopify.com"
+      }
+      
+  ],
+  "presets": [
+    {
+      "name": "IQ Slider",
+      "category": "Ada Apps"
+    }
+  ]
+}
+{% endschema %}
