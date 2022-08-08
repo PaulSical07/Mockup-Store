@@ -2892,6 +2892,6 @@ text-decoration: none;
 }
 
 .header__menu-item:active span {
-color: red;
+color: #d32121 !important;
 }
 
