@@ -2889,6 +2889,7 @@ details-disclosure > details {
 
 .header__menu-item span {
 text-decoration: none;
+  color: red;
 }
 
 .header__menu-item:active span {
