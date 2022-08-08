@@ -2890,3 +2890,7 @@ details-disclosure > details {
 .header__menu-item:hover span {
 text-decoration: none;
 }
+
+.header__menu-item:active span {
+text-decoration: none;
+}
