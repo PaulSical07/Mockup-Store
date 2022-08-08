@@ -2892,7 +2892,7 @@ text-decoration: none;
 }
 
 .header__menu-item:active span {
-  color: #d32121;
+  color: red !important;
 text-decoration: none;
 }
 
