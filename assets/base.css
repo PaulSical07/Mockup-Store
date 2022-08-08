@@ -2887,7 +2887,3 @@ details-disclosure > details {
   font-weight: var(--font-body-weight-bold);
 }
 
-a.header__menu-item:active, a:hover {
-    color: #D32121;
-    text-decoration: none !important;
-}
