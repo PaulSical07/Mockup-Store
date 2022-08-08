@@ -2891,7 +2891,7 @@ details-disclosure > details {
 text-decoration: none;
 }
 
-.header__menu-item:active span {
+.header__menu-item:link span {
 color: red;
 }
 
