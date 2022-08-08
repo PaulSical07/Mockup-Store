@@ -10,48 +10,9 @@
       "settings": {
       }
     },
-    "1659603637cdea6398": {
-      "type": "image-with-text",
-      "blocks": {
-        "1659603637861edffe-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "WHY COSMETICS?",
-            "heading_size": "h1"
-          }
-        },
-        "1659603637861edffe-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "1659603637861edffe-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "SHOP NOW",
-            "button_link": "#"
-          }
-        }
-      },
-      "block_order": [
-        "1659603637861edffe-0",
-        "1659603637861edffe-1",
-        "1659603637861edffe-2"
-      ],
+    "1659943284e9f62356": {
+      "type": "shogun-custom-62f0a057188ad600fdd736f5",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Mask_group_2.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
       }
     },
     "1659759078f562c3c7": {
@@ -99,7 +60,7 @@
   "order": [
     "165993527095ff6233",
     "165975828110f3a6c2",
-    "1659603637cdea6398",
+    "1659943284e9f62356",
     "1659759078f562c3c7",
     "1659774706a9bb5356",
     "1659784562c375f940",
