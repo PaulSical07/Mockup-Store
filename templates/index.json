@@ -226,6 +226,11 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "16599168633972bd99": {
+      "type": "testimonials",
+      "settings": {
+      }
     }
   },
   "order": [
@@ -239,6 +244,7 @@
     "165978904847c81e8f",
     "collage",
     "video",
-    "multicolumn"
+    "multicolumn",
+    "16599168633972bd99"
   ]
 }
