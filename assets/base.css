@@ -2893,4 +2893,5 @@ text-decoration: none;
 
 .header__menu-item:active span {
 text-decoration: none;
+color: #D32121;
 }
