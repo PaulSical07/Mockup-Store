@@ -2887,11 +2887,8 @@ details-disclosure > details {
   font-weight: var(--font-body-weight-bold);
 }
 
-.header__menu-item:hover span {
+.header__menu-item span {
 text-decoration: none;
 }
 
-.header__menu-item:active span {
-text-decoration: none;
-color: #D32121;
-}
+
