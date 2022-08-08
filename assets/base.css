@@ -2889,5 +2889,5 @@ details-disclosure > details {
 
 a.header__menu-item:active, a:hover {
     color: #D32121;
-    text-decoration: none;
+    text-decoration: none !important;
 }
