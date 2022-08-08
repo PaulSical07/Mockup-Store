@@ -2891,4 +2891,9 @@ details-disclosure > details {
 text-decoration: none;
 }
 
+.header__menu-item:active span {
+  color: #D32121;
+text-decoration: none;
+}
+
 
